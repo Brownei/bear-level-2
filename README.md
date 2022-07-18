@@ -1,4 +1,4 @@
-# bear-level-2
+# API INTERACT WHITELISTING
 In this solution I adopted the use of a Participant which deploys the contract and pays the whitelist member and a API that allows just 2 participants to interact with it, the first to interact with this api gets a spot in the whitelist
 and gets 2000 units of the non network token.
 
