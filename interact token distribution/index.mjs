@@ -102,7 +102,6 @@ await getAdd(0),//interacting with the api first
 await willError(() => getAdd(1),1),//To error because the set has been filled already
 await Claim(0),
 await Claim(1),
-await Claim(2),
 await see(0),//see balances
 await see(1),
 await seeD(ctcAlice),//deployer sees balance
